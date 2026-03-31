@@ -28,7 +28,7 @@ export default function Footer() {
               </div>
 
               <a
-                href="https://yandex.ru/maps/"
+                href="https://yandex.ru/maps/org/73328198827"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="footer__link footer__map"
